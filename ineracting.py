@@ -1,8 +1,12 @@
-# fBmChemotaxis
+# fBmChemotaxis -- interacting particles
 
-# Code developed by Gustavo Cornejo-Olea
+# Code developed by Gustavo Cornejo-Olea and Lucas Buvinic
+
 # If you use fBmChemotaxis in your research, please cite:
-# Paper citation
+
+# G. Cornejo-Olea, L. Buvinic, J. Darbon, R. Erban, A. Ravasio, and A. Matzavinos.  
+# On the role of fractional Brownian motion in models of chemotaxis and stochastic gradient ascent. 
+# Submitted, 2025. Preprint available on arXiv: 2511.18745.
 
 
 import numpy as np
